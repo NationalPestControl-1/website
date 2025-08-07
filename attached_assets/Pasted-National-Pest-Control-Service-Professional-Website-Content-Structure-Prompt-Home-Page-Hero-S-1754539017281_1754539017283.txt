@@ -1,0 +1,110 @@
+National Pest Control Service — Professional Website Content & Structure Prompt
+
+Home Page
+Hero Section
+
+Business Name: National Pest Control Service
+
+Tagline: Reliable Pest Solutions in Delhi — Over 10 Years of Expert Service
+
+Background: Use a clean, professional sample image of pest control in action. Leave a clear placeholder to swap in a real team or action photo later.
+
+About Us
+
+Description:
+"National Pest Control Service has been protecting homes, schools, colleges, and major organizations across Delhi for over a decade. We pride ourselves on dependable, thorough service and a track record built on trust and results."
+
+Mission/USP:
+"Our mission: to let every customer sleep easy and live tension-free."
+
+(Add a section with a sample team photo or a placeholder frame, with a label “Add real team photo here.”)
+
+Services
+General Pest Control (GPC) — Our signature service, covering all your pest management needs in one comprehensive package.
+
+Termite Treatment — Prevents and eliminates termite infestations to protect your property.
+
+Cockroach Treatment — Complete solutions for a cockroach-free environment.
+
+(For each, use a relevant sample image. Add a “Replace with real service photo” note under each.)
+
+Contact Us
+Phone: 9818750889
+
+Email: csravicsravi5@gmail.com
+
+Address: C-220, Pandav Nagar, Delhi-110092
+
+WhatsApp: [Clickable WhatsApp link with 9818750889]
+
+Business Hours: Open daily, 9:00AM – 7:00PM
+
+Booking / Inquiry Form
+Fields to include:
+
+Name
+
+Phone Number
+
+Address
+
+Email (optional)
+
+Pest Problem Description (text area)
+
+(Leave space beside or above the form for a future image—e.g., a “happy customer” or “service in action” photo.)
+
+Owner
+Owner Name: Chatru Singh
+(Add a circular placeholder for an owner photo, labeled as “Insert photo of Mr. Chatru Singh here.”)
+
+Short Bio:
+(Optional space to add a brief story or credential highlights. Sample text: “Dedicated to customer satisfaction and high-quality service for over a decade.”)
+
+Testimonials
+Customer Feedback:
+(Create a section with one or more sample testimonials. For example:)
+
+"Fantastic service. They handled our school’s pest issue quickly—highly recommended!"
+— [Space for Customer Name/Photo]
+
+(Add labeled testimonial frames to replace with real reviews/photos.)
+
+License and Certifications
+(Insert a document icon or sample certificate image. Leave a caption: “Upload certification/license proof here.”)
+
+Frequently Asked Questions (FAQs)
+How long does treatment take?
+Most services are completed the same day; large jobs may need follow-up.
+
+Is pest control safe for children and pets?
+Yes—we use only approved, safe chemicals and application methods.
+
+Do I need to leave my home during treatment?
+Usually not, but we’ll advise you if necessary, based on the service.
+
+(Add more based on your business experience or leave space for new FAQs.)
+
+Social Media
+WhatsApp Direct Chat: [Clickable chat link using 9818750889]
+
+(Leave space for adding future social media buttons.)
+
+Terms, Conditions, and Privacy Policy
+(Insert a minimal placeholder to add disclaimers, privacy policy text, and service guarantees.)
+
+Image & Logo Placeholders
+
+Add frames or sample images in every relevant section (hero, services, owner, team, testimonials), each clearly labeled for easy replacement with your own actual business visuals later.
+
+General Style Notes for the Website Builder:
+
+Use modern, clean fonts and generous spacing.
+
+Stick to a color scheme that reflects trust (blues, greens, white, or your own brand colors).
+
+Consistent call-to-action buttons (Book Now, Contact, WhatsApp Chat).
+
+Sections clearly separated and visually balanced.
+
+All sample images should be easy to replace—label each “Replace with your image.”
